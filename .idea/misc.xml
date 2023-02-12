@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/drawable/btn_primary.xml" value="0.15" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/drawable/btn_secondary.xml" value="0.15" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/drawable/button_primary.xml" value="0.1945" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/drawable/ic_baseline_keyboard_backspace_24.xml" value="0.15" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/drawable/ic_classpage.xml" value="0.1945" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/drawable/ic_exercise.xml" value="0.1945" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/drawable/ic_kamusmatematika.xml" value="0.1945" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/drawable/ic_kamusmatematika_active.xml" value="0.15" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/drawable/ic_kelas.xml" value="0.15" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/drawable/ic_kelas_active.xml" value="0.15" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/drawable/ic_latihan.xml" value="0.15" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/drawable/ic_latihan_active.xml" value="0.15" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/drawable/ic_launcher_background.xml" value="0.15" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/drawable/ic_manage_search_black_24dp.xml" value="0.1045" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/drawable/ic_menu_book_black_24dp.xml" value="0.1945" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/drawable/ic_school_ic.xml" value="0.1945" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/drawable/ic_supervisor_account_black_24dp.xml" value="0.1045" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/drawable/shape_circle_grey.xml" value="0.1945" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/drawable/shape_circle_primary.xml" value="0.15" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/drawable/shape_circle_purple.xml" value="0.1945" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/drawable/shape_circle_secondary.xml" value="0.15" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/drawable/shape_class_background.xml" value="0.1945" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/drawable/shape_rectangle_primary.xml" value="0.15" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/drawable/shape_rectangle_purple.xml" value="0.1945" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/drawable/shape_rectangle_purple2.xml" value="0.1945" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/drawable/shape_rectangle_secondary.xml" value="0.15" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/drawable/shape_rectangle_white.xml" value="0.1945" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/drawable/shape_rectangle_white2.xml" value="0.1945" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/drawable/shape_tag.xml" value="0.1945" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/drawable/shape_tag_purple.xml" value="0.1945" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/font/poppins.xml" value="0.2546875" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/activity_createprofile_one.xml" value="0.33" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/activity_createprofilescreen.xml" value="0.33" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/activity_detail.xml" value="0.22" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/activity_detail_page.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/activity_detail_page2.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/activity_detail_page_dashboard.xml" value="0.26687306501547986" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/activity_detail_page_dictionary.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/activity_dicti_page.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/activity_exercise_page.xml" value="0.33" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/activity_home.xml" value="0.4759259259259259" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/activity_home_page.xml" value="0.16" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/activity_onboarding_one.xml" value="0.33" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/activity_onboarding_three.xml" value="0.33" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/activity_onboarding_two.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/activity_onboarding_two2.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/activity_profil_page.xml" value="0.5" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/activity_profile_page.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/activity_sign_in.xml" value="0.33" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/activity_sign_up.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/activity_signinscreen.xml" value="0.33" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/activity_signinscreen_one.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/activity_signupscreen.xml" value="0.33" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/activity_splashscreen.xml" value="0.18" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/column_item_list_item.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/detailpage.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/fragment_class.xml" value="0.14" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/fragment_content.xml" value="0.22" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/fragment_content2.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/fragment_dashboard.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/fragment_description.xml" value="0.33" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/fragment_detail_page.xml" value="0.22" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/fragment_dicti.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/fragment_exercise.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/fragment_kamus.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/fragment_latihan.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/homexample.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/row_item_avalaible_class.xml" value="0.33" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/row_item_coming_class.xml" value="0.5" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/row_item_desc.xml" value="0.33" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/row_item_exercise.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/row_item_exrcise.xml" value="0.5" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/row_item_listitem.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/row_item_popular_class.xml" value="0.33" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/sign_in.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/DictionaryMathematic/app/src/main/res/layout/sign_up.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
